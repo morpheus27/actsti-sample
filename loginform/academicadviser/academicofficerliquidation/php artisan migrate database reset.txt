@@ -1,0 +1,4 @@
+php artisan migrate:reset
+php artisan migrate
+
+php artisan make:migration add_paid_to_users_table --table=users

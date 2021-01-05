@@ -1,0 +1,9 @@
+        #calendar {
+        max-width: 100%;
+        font-family: 'Questrial', sans-serif;
+    }
+    .col-centered{
+        float: none;
+        margin: 0 auto;
+    }
+
